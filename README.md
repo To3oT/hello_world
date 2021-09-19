@@ -1,2 +1,2 @@
 # hello_world
-the first
+print("hello world")
